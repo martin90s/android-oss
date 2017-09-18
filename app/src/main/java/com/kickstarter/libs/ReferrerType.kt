@@ -8,5 +8,5 @@ enum class ReferrerType(val referrerType: String) {
   DOMAIN("domain"),
   CUSTOM("custom"),
   EXTERNAL("external"),
-  INTERNAL("internal")
+  INTERNAL("kickstarter")
 }
